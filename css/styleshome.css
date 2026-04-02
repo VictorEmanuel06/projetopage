@@ -250,14 +250,6 @@ body {
         
     }
 
-    .caixa-cuidado{
-        margin-left: -18px;
-    }
-
-    .caixa-bem-vindo{
-        margin-left: -20px;
-    }
-
     .caixa-cuidado .texto,
     .caixa-bem-vindo .texto {
         margin-top: 0;
@@ -372,7 +364,7 @@ body {
 @media (max-width: 600px) {
     .caixa-cuidado,
     .caixa-bem-vindo {
-        margin-right: -40px;
+        margin-right: -35px;
     }
 
     .circulo {
