@@ -366,6 +366,10 @@ body {
     .caixa-bem-vindo {
         margin-right: -35px;
     }
+    
+    .img-2{
+        margin-left: -10px;
+    }
 
     .circulo {
     width: clamp(180px, 30vw, 220px);
