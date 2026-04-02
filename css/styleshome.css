@@ -14,7 +14,6 @@ body {
 .caixa-bem-vindo {
     display: flex;
     justify-content: center;
-    gap: 0px;
 /* arrumar essa parte */
     max-width: 1000px;
     margin: 70px auto 60px;
@@ -31,8 +30,8 @@ body {
 
 .caixa-cuidado .texto,
 .caixa-bem-vindo .texto {
-    margin-top: 40px;
-}
+    margin-top: 20px;
+ }
 
 
 
@@ -250,6 +249,15 @@ body {
         padding: 0 16px;
         
     }
+
+    .caixa-cuidado{
+        margin-left: -18px;
+    }
+
+    .caixa-bem-vindo{
+        margin-left: -20px;
+    }
+
     .caixa-cuidado .texto,
     .caixa-bem-vindo .texto {
         margin-top: 0;
