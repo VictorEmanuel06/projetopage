@@ -367,8 +367,9 @@ body {
         margin-right: -35px;
     }
     
-    .img-2{
-        margin-left: -20px;
+    .img-1,
+    .img-2 {
+        margin-right: 15px;
     }
 
     .circulo {
